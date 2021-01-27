@@ -1,0 +1,175 @@
+ID ;Indicator Name;Curl
+164406;Adjusted net savings (% of GNI);non
+36806;Adolescent birth rate (births per 1,000 women ages 15-19);non
+185106;Age-standardized mortality rate attributed to noncommunicable diseases, female;non
+185206;Age-standardized mortality rate attributed to noncommunicable diseases, male;non
+175206;Antenatal care coverage, at least one visit (%);non
+186806;Average annual change in the share of bottom 40 percent (%);non
+181106;Birth registration (% under age 5);non
+186706;Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP);oui
+195606;Carbon dioxide emissions, production emissions per capita (tonnes);non
+181306;Child labour (% ages 5-17);oui
+98306;Child malnutrition, stunting (moderate or severe) (% under age 5);non
+181406;Child marriage, women married by age 18 (% of women ages 20?24 who are married or in union);non
+135006;Coefficient of human inequality;oui
+170006;Concentration index (exports) (value);non
+175506;Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15?49 years);non
+117806;Contribution of deprivation in education to the Multidimensional Poverty Index;non
+117906;Contribution of deprivation in health to the Multidimensional Poverty Index;non
+118006;Contribution of deprivation in standard of living to the Multidimensional Poverty Index;non
+181806;Current health expenditure (% of GDP);non
+185006;Degraded land (% of total land area);non
+195906;Domestic material consumption per capita, (tonnes);non
+103706;Education index;oui
+150606;Employment in agriculture (% of total employment);non
+150706;Employment in services (% of total employment);non
+148306;Employment to population ratio (% ages 15 and older);non
+123506;Estimated gross national income per capita, female (2017 PPP $);non
+123606;Estimated gross national income per capita, male (2017 PPP $);non
+69706;Expected years of schooling (years);non
+123306;Expected years of schooling, female (years);non
+123406;Expected years of schooling, male (years);non
+133206;Exports and imports (% of GDP);non
+175006;Female share of employment in senior and middle management (%);non
+53506;Foreign direct investment, net inflows (% of GDP);non
+100806;Forest area (% of total land area);oui
+164206;Forest area, change (%);non
+174306;Fossil fuel energy consumption (% of total energy consumption);non
+97106;Fresh water withdrawals (% of total renewable water resources);non
+194906;GDP per capita (2017 PPP $);non
+137906;Gender Development Index (GDI);non
+68606;Gender Inequality Index (GII);non
+149206;Government expenditure on education (% of GDP);non
+178306;Gross capital formation (% of GDP);non
+194506;Gross domestic product (GDP), total (2017 PPP $ billions);non
+133006;Gross enrolment ratio, pre-primary (% of preschool-age children);non
+63206;Gross enrolment ratio, primary (% of primary school-age population);non
+63306;Gross enrolment ratio, secondary (% of secondary school-age population);non
+63406;Gross enrolment ratio, tertiary (% of tertiary school-age population);non
+65606;Gross fixed capital formation (% of GDP);non
+195706;Gross national income (GNI) per capita (constant 2017 PPP$);non
+146206;HDI rank;non
+58006;HIV prevalence, adult (% ages 15-49);oui
+149406;Homeless people due to natural disaster (average annual per million people);non
+61006;Homicide rate (per 100,000 people);oui
+137506;Human Development Index (HDI);oui
+136906;Human Development Index (HDI), female;non
+137006;Human Development Index (HDI), male;non
+103606;Income index;non
+67106;Income inequality, Gini coefficient;non
+135106;Income inequality, quintile ratio;non
+186906;Income share held by poorest 40%;non
+186106;Income share held by richest 1%;non
+187006;Income share held by richest 10 %;non
+183806;Inequality among the poor;non
+101606;Inequality in education (%);non
+101706;Inequality in income (%);non
+101806;Inequality in life expectancy (%);non
+71406;Inequality-adjusted education index;non
+138806;Inequality-adjusted HDI (IHDI);non
+71606;Inequality-adjusted income index;non
+71506;Inequality-adjusted life expectancy index;non
+64406;Infants lacking immunization, DTP (% of one-year-olds);non
+64306;Infants lacking immunization, measles (% of one-year-olds);non
+111106;International inbound tourists (thousands);non
+147206;International student mobility (% of total tertiary enrolment);non
+178106;Internet users, female (% of female population);non
+43606;Internet users, total (% of population);oui
+148206;Labour force participation rate (% ages 15 and older);non
+48706;Labour force participation rate (% ages 15 and older), female;non
+48806;Labour force participation rate (% ages 15 and older), male;non
+183906;Labour share of GDP, comprising wages and social protection transfers (%);non
+69206;Life expectancy at birth (years);non
+120606;Life expectancy at birth, female (years);non
+121106;Life expectancy at birth, male (years);non
+103206;Life expectancy index;non
+101406;Literacy rate, adult (% ages 15 and older);non
+182106;Malaria incidence (per 1,000 people at risk);non
+128106;Mandatory paid maternity leave (days);non
+89006;Maternal mortality ratio (deaths per 100,000 live births);non
+103006;Mean years of schooling (years);oui
+24106;Mean years of schooling, female (years);oui
+24206;Mean years of schooling, male (years);oui
+47906;Median age (years);oui
+46006;Mobile phone subscriptions (per 100 people);non
+174506;Mortality rate attributed to household and ambient air pollution (per 100,000 population, age-standardized);non
+174606;Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population);non
+57806;Mortality rate, female adult (per 1,000 people);non
+57206;Mortality rate, infant (per 1,000 live births);oui
+57906;Mortality rate, male adult (per 1,000 people);non
+57506;Mortality rate, under-five (per 1,000 live births);non
+38406;Multidimensional poverty index (MPI);non
+97306;Natural resource depletion (% of GNI);non
+110806;Net migration rate (per 1,000 people);non
+99106;Net official development assistance received (% of GNI);non
+184306;Number of deaths and missing persons attributed to disasters (per 100,000 population);non
+122006;Old-age (65 and older) dependency ratio (per 100 people ages 15-64);non
+123806;Old-age pension recipients (% of statutory pension age population);non
+73506;Overall loss in HDI due to inequality (%);non
+183206;Overall loss in HDI value due to inequality, average annual change (%);non
+185306;Percentage of primary schools with access to the internet;non
+185406;Percentage of secondary schools with access to the internet;non
+63106;Population ages 15?64 (millions);non
+132706;Population ages 65 and older (millions);non
+38606;Population in multidimensional poverty, headcount (%);non
+102006;Population in multidimensional poverty, headcount (thousands) (for the year of the survey);non
+183406;Population in multidimensional poverty, headcount (thousands) (projection for 2018);non
+38506;Population in multidimensional poverty, intensity of deprivation (%);non
+101006;Population in severe multidimensional poverty (%);non
+39006;Population living below income poverty line, national poverty line (%);non
+167106;Population living below income poverty line, PPP $1.90 a day (%);non
+132806;Population under age 5 (millions);non
+182806;Population using safely managed drinking-water services (%);non
+195206;Population using safely managed sanitation services (%);non
+142506;Population vulnerable to multidimensional poverty (%);non
+23806;Population with at least some secondary education (% ages 25 and older);non
+23906;Population with at least some secondary education, female (% ages 25 and older);non
+24006;Population with at least some secondary education, male (% ages 25 and older);non
+181506;Prevalence of female genital mutilation/cutting among girls and women (% of girls and women ages 15?49);non
+46106;Primary school dropout rate (% of primary school cohort);non
+45806;Primary school teachers trained to teach (%);non
+128306;Prison population (per 100,000 people);non
+111306;Private capital flows (% of GDP);non
+177006;Programme for International Student Assessment (PISA) score in mathematics;non
+176906;Programme for International Student Assessment (PISA) score in reading;non
+176806;Programme for International Student Assessment (PISA) score in science;non
+181206;Proportion of births attended by skilled health personnel (%);non
+184006;Proportion of informal employment in nonagricultural employment (% of total employment in nonagriculture);non
+193006;Proportion of informal employment in nonagricultural employment, female (% of total employment in nonagriculture);non
+46206;Pupil-teacher ratio, primary school (pupils per teacher);non
+179706;Ratio of education and health expenditure to military expenditure;non
+181606;Red List Index (value);non
+21806;Refugees by country of origin (thousands);non
+52606;Remittances, inflows (% of GDP);non
+52306;Research and development expenditure (% of GDP);non
+181706;Rural population with access to electricity (%);non
+49006;Sex ratio at birth (male to female births);non
+175106;Share of employment in nonagriculture, female (% of total employment in nonagriculture);non
+183506;Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female (%);non
+183706;Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are male (%);non
+175906;Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female (%);non
+180706;Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, male (%);non
+194306;Share of seats held by women in local government (%);non
+31706;Share of seats in parliament (% held by women);non
+179406;Skilled labour force (% of labour force);non
+112606;Suicide rate, female (per 100,000 people, age-standardized);non
+112506;Suicide rate, male (per 100,000 people, age-standardized);non
+177706;Survival rate to the last grade of lower secondary general education (%);non
+174206;Total debt service (% of exports of goods, services and primary income);non
+44206;Total population (millions);non
+169706;Total unemployment rate (female to male ratio);non
+182206;Tuberculosis incidence (per 100,000 people);non
+140606;Unemployment, total (% of labour force);oui
+110906;Unemployment, youth (% ages 15?24);non
+175606;Unmet need for family planning (% of married or in-union women of reproductive age, 15?49 years);non
+45106;Urban population (%);oui
+196006;Use of fertilizer nutrient nitrogen (N), per area of cropland (kg per hectare);non
+196106;Use of fertilizer nutrient phosphorus (expressed as P2O5), per area of cropland (kg per hectare);non
+167406;Violence against women ever experienced, intimate partner (% of female population ages 15 and older);non
+167506;Violence against women ever experienced, nonintimate partner (% of female population ages 15 and older);non
+43006;Vulnerable employment (% of total employment);non
+175706;Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older);non
+153706;Working poor at PPP$3.20 a day (% of total employment);non
+121206;Young age (0-14) dependency ratio (per 100 people ages 15-64);non
+147906;Youth not in school or employment (% ages 15-24);non
+169806;Youth unemployment rate (female to male ratio);non
