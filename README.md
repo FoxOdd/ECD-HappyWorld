@@ -1,21 +1,23 @@
 # ECD-HappyWorld
-Exploration de donnée sur des données du bonheurs dans le monde
+Exploration de données sur les données du bonheur dans le monde ainsi que des données complémentaires.
 
 # Acquisition des données
-## Donnée du Bonheurs
 
-Les tables du Bonheur sont disponible en téléchargement sur https://www.kaggle.com/unsdsn/world-happiness
+Voici notre démarche pour l'acquisition et le formatage des données.
+## Données du bonheur
 
-Chaque tables *2015.cvs* , *2016.cvs* , *2017.cvs* , *2018.cvs* , *2019.cvs* sont téléchargeable. 
-Le téléchargement requière une inscription.
+Les tables du bonheur sont disponible en téléchargement sur https://www.kaggle.com/unsdsn/world-happiness .
+
+Chaque table *2015.csv* , *2016.csv* , *2017.csv* , *2018.csv* , *2019.csv* est téléchargeable. 
+Le téléchargement requiert une inscription.
 
 Ranger les données dans un dossier **data/happy/.**
 
-## Donnée sur la Liberté de la press
+## Données sur la liberté de la presse
 
 ...
 
-Ranger les donnée dans un dossier **data/RSF**
+Ranger les données dans un dossier **data/RSF**
 
 ## Donnée du Rapport de développement humain
 
@@ -32,7 +34,7 @@ cd data
 cut -d, -f1,3,4 RSF/Index2015.csv > ISO3166.csv
 ```
 ## Trier les colonnes des fichiers du bonheur
-Trier et supprimer manuellement les collones des fichiers **data/happy/201?** afin que les colonnes s'organisent de la façon suivante:
+Trier et supprimer manuellement les colones des fichiers **data/happy/201?** afin que les colonnes s'organisent de la façon suivante:
  - 1ère colonne Country ou Country or region
  - 2ème colonne Happiness Rank  ou Overall rank
  - 3ème colonne Happiness Score ou Score 
@@ -45,13 +47,13 @@ Trier et supprimer manuellement les collones des fichiers **data/happy/201?** af
 
 ## Imposer le séparateur décimal en point et non en virgule
 
-Les fichiers du RSF ont leurs nombre écrit à la française avec une virgule et non un point comme séparateur.
+Les fichiers du RSF ont leurs nombres écrits "à la française", avec une virgule et non un point comme séparateur.
 
-Manuellement sur exel pour tous les fichiers du RFS, imposer la langue en anglais puis sélectionné les colonnes  *Score 201?* à mettre en format numéric number.
+Manuellement sur Excel pour tous les fichiers du RFS, imposer la langue en anglais puis sélectionner les colonnes *Score 201?* à mettre en format numeric number.
 
 ## Modifier les noms des fichiers du dossier Human_Development_Report
 
-Les Noms des fichiers contiènent des espaces et sont assez compliqué , un renommage des fichiers est donc a effectuer:
+Les noms des fichiers contiènent des espaces et sont assez compliqué , un renommage des fichiers est donc a effectuer:
  - *Carbon dioxide emissions, per unit of GDP (kg per 2010 US$ of GDP).json* en *Carbon_dioxide_emissions.json*
  - *Education index.json* en *Education_index.json*
  - *Forest area (% of total land area).json* en *Forest_area.json* 
@@ -68,9 +70,9 @@ Les Noms des fichiers contiènent des espaces et sont assez compliqué , un reno
 
 ## Écritures de tableau récapitulatif des données
 
-Les donées sont mise en commun par année dans un fichier csv paramètre en fonction des pays. Ces fichiers récapitulatifs sont stockés dans **data/total** 
+Les données sont mises en commun par année dans un fichier csv paramètre en fonction des pays. Ces fichiers récapitulatifs sont stockés dans **data/total** 
 
-Pour les obtenirs lancer une première fois la commande 
+Pour les obtenir lancer une première fois la commande 
 ```
 cd data
 mkdir total
@@ -89,9 +91,12 @@ Relancer
 
 ```
 
-# Calculer la corrélation entre le classement du bonheur et le classement des paramètres avec le taux de kendall
+# Calculer la corrélation entre le classement du bonheur et le classement des paramètres avec le tau de kendall
 
-Ouvrir le script /script/kendalltau.R et a la ligne 6 indiquer le chemin absolu jusqu'aux data, enregistrer puis lancer le script 
+Ouvrir le script /script/kendalltau.R et à la ligne 6 indiquer le chemin absolu jusqu'aux data, enregistrer puis lancer le script 
 ```
 ./script/kendalltau.R
 ```
+
+# Calcul de l'ACP et réalisation du clustering via les k-means
+Ouvrir et lancer le Notebook Jupyter *Clustering.ipynb*.
